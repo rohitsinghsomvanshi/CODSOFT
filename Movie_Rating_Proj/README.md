@@ -14,7 +14,9 @@ The dashboard provides meaningful insights into movie trends and audience prefer
 
 ## 📊 Dashboard Preview
 
-
+<p align="center">
+<img src="output.png" alt="Titanic Dashboard" width="100%">
+</p>
 
 **Key Performance Indicators (KPIs)**
 
