@@ -196,11 +196,11 @@ jupyter notebook
 
 **Rohit Singh**
 
-📧 Email: your-email@example.com
+📧 Email: rohitsinghsomvanci00@gmail.com
 
-🔗 LinkedIn: https://linkedin.com/in/your-profile
+🔗 LinkedIn: https://linkedin.com/in/rohitsinghsomvanshi
 
-💻 GitHub: https://github.com/your-username
+💻 GitHub: https://github.com/rohitsinghsomvanshi
 
 ---
 
