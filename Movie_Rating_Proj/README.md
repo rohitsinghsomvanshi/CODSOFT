@@ -1,6 +1,6 @@
 <h1 align = "center">🔥🔥CODSOFT🔥🔥</h1>
 <p align="center">
-  <a  href="https://github.com/rohitsinghsomvanshi/CODSOFT/blob/main/CreditCard_Proj/Credit_fraud.ipynb" align="center"> Click Me </a>
+  <a  href="https://github.com/rohitsinghsomvanshi/CODSOFT/blob/main/Movie_Rating_Proj/mov_rating.ipynb" align="center"> Click Me </a>
   </p>
 
 
