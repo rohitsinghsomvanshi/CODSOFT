@@ -1,3 +1,6 @@
+<h1 align = "center">🔥🔥CODSOFT🔥🔥</h1>
+
+
 # 🎬 Movie Rating Analysis Dashboard
 
 A complete Exploratory Data Analysis (EDA) project built using **Python**, **Pandas**, **Matplotlib**, and **Seaborn** to analyze movie ratings, genres, directors, actors, audience votes, and release trends.
