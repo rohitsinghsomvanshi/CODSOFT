@@ -1,5 +1,5 @@
 # <h1 align ="center"> 🔥🔥 CODSOFT 🔥🔥 </h1>
- <p align="center">
+ <p align="center"> 
   <a  href="https://github.com/rohitsinghsomvanshi/CODSOFT/blob/main/Titanic_Proj/tytanic.ipynb" target="blank" align="center"> Click Me </a>
   </p>
   
