@@ -202,7 +202,7 @@ jupyter notebook
 
 💻 GitHub: https://github.com/rohitsinghsomvanshi
 
-🔗 Portfolio: https://github.com/rohitsinghsomvanshi
+🔗 Portfolio: [https://github.com/rohitsinghsomvanshi](https://rohitsinghsomvanshi.github.io/Portfolio/)
 
 ---
 
