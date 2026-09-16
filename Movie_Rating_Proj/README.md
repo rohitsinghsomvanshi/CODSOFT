@@ -202,6 +202,8 @@ jupyter notebook
 
 💻 GitHub: https://github.com/rohitsinghsomvanshi
 
+🔗 Portfolio: https://github.com/rohitsinghsomvanshi
+
 ---
 
 ## ⭐ If you found this project helpful, don't forget to Star this repository!
