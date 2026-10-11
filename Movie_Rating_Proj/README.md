@@ -198,7 +198,7 @@ jupyter notebook
 
 📧 Email: rohitsinghsomvanci00@gmail.com
 
-🔗 LinkedIn: https://linkedin.com/in/rohitsinghsomvanshi
+🔗 LinkedIn: https://linkedin.com/in/rohitsinghsomvanshi 
 
 💻 GitHub: https://github.com/rohitsinghsomvanshi
 
