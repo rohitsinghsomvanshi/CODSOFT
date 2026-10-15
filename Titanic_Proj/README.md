@@ -211,7 +211,7 @@ Titanic-Survival-Dashboard/
 
 MCA Student
 
-Aspiring Data Analyst | Python Developer | Machine Learning Enthusiast
+Aspiring Data Analyst | Python Developer | Machine Learning Enthusiast 
 
 ---
 Portfolio: [https://github.com/rohitsinghsomvanshi](https://rohitsinghsomvanshi.github.io/Portfolio/)
