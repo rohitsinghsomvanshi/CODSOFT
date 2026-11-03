@@ -5,7 +5,7 @@
   
 #  🚢 Titanic Survival Prediction Dashboard 
 <p align="center">
-<img src="output3.png" alt="Titanic Dashboard" width="100%">
+<img src="output3.png" alt="Titanic Dashboard" width="100%"> 
 </p>
 
 A Machine Learning project that predicts passenger survival on the Titanic dataset and presents the analysis using a beautiful interactive dashboard built with Python, Pandas, Matplotlib, Seaborn, and Scikit-learn.
